@@ -59,14 +59,14 @@
 
 - name: Digitally Controlled Oscillator
   descr: Designed current and cap switched fully diff 4 stage CMOS ring oscillator with quadrature outputs in Cadence.
-  demo : ";"
+  demo :  empty
   tags:
     - tag: Cadence Virtuoso
     - tag: 45nm
 
 - name: CMOS LC-VCO
   descr: Designed and Simulated different types of CMOS LC oscillators with different types of PMOS and NMOS cross coupled loads in Cadence.
-  demo: ";"
+  demo: empty
   tags:
      - tag: Cadence Virtuoso
      - tag:  45nm
@@ -80,7 +80,7 @@
 
 - name: Object Counting unit
   descr: Designed a systems which counts the numbers of objects and the average duration between each object that passes through the belt using timer and interrupts. The project was done on ARM Processor and KEIL Software.
-  demo: ";"
+  demo: empty
   tags:
     - tag: Keil
     - tag: ARM
@@ -97,10 +97,3 @@
   tags:
     - tag: Python
     - tag: Pygame
-
-- name: TestName
-  descr: Test Description
-  demo: https://harshrawat17.github.io/projects/test
-  tags:
-    - tag: Test
-

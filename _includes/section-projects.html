@@ -8,9 +8,15 @@
         </div> -->
         
         {% if project.demo %}
+          {% if project.demo == "empty" %}
+          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer"  style="pointer-events: none;">
+            <h3>{{project.name}}</h3>
+          </a>
+          {% elsif project.demo != "empty" %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
             <h3>{{project.name}}</h3>
           </a>
+          {% endif %}
        <p class="project-desc">{{project.descr}}</p>
         {% endif %}
         {% if project.tags %}
