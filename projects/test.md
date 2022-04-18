@@ -1,6 +1,6 @@
 ---
 title: Test
-layout: page
+layout: pages
 ---
 
 ## Hello World
