@@ -16,7 +16,7 @@
 
 - name: LDO - Voltage Regulator
   descr: Designed a LDO VR in Cadence with programmable output and median value of 850mV.
-  demo: LDO
+  demo: https://harshrawat17.github.io/projects_md/LDO
   tags:
     - tag: Cadence Virtuoso
     - tag: 5nm
