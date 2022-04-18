@@ -16,28 +16,28 @@
 
 - name: LDO - Voltage Regulator
   descr: Designed a LDO VR in Cadence with programmable output and median value of 850mV.
-  demo: https://google.com
+  demo: https://harshrawat17.github.io/projects/LDO
   tags:
     - tag: Cadence Virtuoso
     - tag: 5nm
 
 - name: Manhattan vs P2P Resistance 
   descr: Collect the data from different blocks to capture the variation of Manhattan Distance with Resistance and determine the ideal coefficient using Python Scripting and graph plotting. 
-  demo: https://harshrawat17.github.io//projects/MVP
+  demo: https://harshrawat17.github.io/projects/MVP
   tags:
     - tag: Python
     - tag: tcl
 
 - name: Place and Route
   descr: Used TCL scripting in various stages of the PnR flow.
-  demo: https://harshrawat17.github.io//projects/TCL
+  demo: https://harshrawat17.github.io/projects/TCL
   tags:
     - tag: tcl
     - tag: ICC2
 
 - name: Frequency Dividers
   descr: Designed frequency divide by 2 , 3 and 1024 Circuits in Cadence using CML and CMOS logic.
-  demo: https://harshrawat17.github.io//projects/avd1
+  demo: https://harshrawat17.github.io/projects/avd1
   tags:
     - tag: Cadence Virtuoso
     - tag: 45nm
@@ -45,14 +45,14 @@
 
 - name: Phase Detectors
   descr: Designed Hodge and Alexander PD in Cadence.
-  demo: https://harshrawat17.github.io//projects/avd2
+  demo: https://harshrawat17.github.io/projects/avd2
   tags:
     - tag: Cadence Virtuoso
     - tag: 45nm
 
 - name: Pipelined MIPS Processor
   descr: Designed a four stage Pipe-lined processor ( PC, IF/ID, ID/EX, EX/WB) including the control signals used to run Addi , Shift , Jump, Branch using Verilog.
-  demo: https://harshrawat17.github.io//projects/comparch
+  demo: https://harshrawat17.github.io/projects/comparch
   tags:
     - tag: Verilog
 
@@ -73,7 +73,7 @@
 
 - name: Amplifiers 
   descr: Designed various amplifiers and a cascoded current mirror in Cadence.
-  demo: https://harshrawat17.github.io//projects/advd
+  demo: https://harshrawat17.github.io/projects/advd
   tags:
     - tag: Cadence Virtuoso
     - tag:  45nm
@@ -87,13 +87,13 @@
 
 - name: Matlab GUI 
   descr: Matlab GUI which filters the noise from inputs and gives the output in freq and time domain.
-  demo: https://harshrawat17.github.io//projects/matlab
+  demo: https://harshrawat17.github.io/projects/matlab
   tags:
     - tag: GUI
 
 - name: Game Development using Python 
   descr: Used Pygame and other libraries to develop 3 games.
-  demo: https://harshrawat17.github.io//projects/pythongame
+  demo: https://harshrawat17.github.io/projects/pythongame
   tags:
     - tag: Python
     - tag: Pygame
